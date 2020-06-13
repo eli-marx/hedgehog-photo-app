@@ -110,3 +110,12 @@ nav a:hover::before {
   height: 0;
   padding-top: 37.5%;
 }
+
+footer {
+  background-color: #0bbfb0;
+}
+
+.footer-text {
+  display: flex;
+  justify-content: space-around;
+}
